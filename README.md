@@ -2,8 +2,6 @@
 
 Web development student at SRH Berlin University of Applied Sciences (graduating 2028) and working student in content aggregation and curation at StepStone. I like building small, working things: websites, games, and tools that show how a technology works.
 
-🌐 Portfolio: [lennyrichartz.ninja](https://lennyrichartz.ninja)
-
 📫 Contact: [Lenny.richartz@outlook.com]
 
 ## Projects
